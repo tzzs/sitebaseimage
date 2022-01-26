@@ -1,4 +1,4 @@
-# sitebaseimage
+# uwsgi-python-docker-image
 
 This is a docker image that is based on ossobv/uwsgi-python for siteProject. It contains uwsgi, python3, django packages.
 
